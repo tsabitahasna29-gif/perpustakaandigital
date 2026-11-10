@@ -1,3 +1,7 @@
+# Nama: Tsabita Hasna Jauza Putri 
+# NIM: 13040124140107
+# Kelas C 
+
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
