@@ -1,7 +1,3 @@
-# Nama: Tsabita Hasna Jauza Putri 
-# NIM: 13040124140107
-# Kelas C 
-
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
@@ -17,5 +13,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Jurnal Praktik Literasi](ebook/Jurnal Praktik Literasi.pdf) - Taslimahudin (2026)
 10. [Jurnal Penggunaan Tiktok](ebook/Jurnal Penggunaan TikTok.pdf) - Suhardiman (2022)
 11. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Tsabita (2026)
+
+Tsabita Hasna Jauza Putri 
+13040124140107 
+Kelas C
     
 *Powered by GitHub Pages*
